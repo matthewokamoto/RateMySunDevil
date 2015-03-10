@@ -1,0 +1,35 @@
+#btnHide:hover {
+	background:#FFCB66;
+}
+
+body {
+	background-color: #FFCB66;
+}
+
+h1{
+	font-size: 18px;
+	padding: 2px;
+	border-bottom: solid 1px #990033;
+}
+
+p{
+	font-size: 12px;
+	color: #CCA251;
+	text-align: left;
+}
+
+#popupMain{
+	text-align:center;
+}
+
+#txtSearchName{
+	border-radius: 7px;
+	padding-left: 3px;
+}
+
+#btnSearch{
+	border-radius: 6px;
+	background-color: #ffb310;
+	border-color: #990033;
+	margin-top: 6px;
+}

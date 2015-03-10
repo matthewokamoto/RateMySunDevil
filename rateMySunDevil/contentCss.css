@@ -1,0 +1,27 @@
+#ratingDiv{
+	position: fixed;
+	width: 130px; 
+	height: 163px; 
+	background-color: #FFCB66; 
+	z-index: 10; 
+	top: 60px; 
+	right: -120px; 
+	border: 2px solid #990033; 
+	border-radius: 5px;
+}
+
+#tblRating{
+	 text-align:center; 
+	 border:none; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 padding-right: 10px;'
+}
+
+#btnHide{
+	top:0; 
+	border-radius: 5px; 
+	background:#ffb310; 
+	border-color: #990033; 
+	width: 100px;' 
+}
